@@ -17,3 +17,5 @@ Down Mountain Shoots: Investigation will begin with a FOI request regarding the 
 
 FOI Request: https://www.whatdotheyknow.com/request/bunces_redevelopment_affordable
 FOI Request: Acknowledged by Worthing Council 7th July 2017
+FOI Request: Reminder sent 1st August 2017
+FOI Request: Email sent directly to Worthing Council requesting a response
