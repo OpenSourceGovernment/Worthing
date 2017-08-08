@@ -15,7 +15,7 @@ Determine why the decision was made, who is responsible for the decision and if 
 ## Investigation Started Sunday 2nd Jun 2017
 Down Mountain Shoots: Investigation will begin with a FOI request regarding the decision to allow a significant reduction in affordable housing funding.
 
-FOI Request: https://www.whatdotheyknow.com/request/bunces_redevelopment_affordable
-FOI Request: Acknowledged by Worthing Council 7th July 2017
-FOI Request: Reminder sent 1st August 2017
-FOI Request: Email sent directly to Worthing Council requesting a response
+FOI Request: https://www.whatdotheyknow.com/request/bunces_redevelopment_affordable 
+FOI Request: Acknowledged by Worthing Council 7th July 2017 
+FOI Request: Reminder sent 1st August 2017 
+FOI Request: Email sent directly to Worthing Council requesting a response 
